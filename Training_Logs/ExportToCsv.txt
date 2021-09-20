@@ -1,0 +1,12 @@
+2020-02-11/23:25:11		File exported successfully!!!
+2020-02-12/18:23:27		File exported successfully!!!
+2020-02-12/19:10:26		File exporting failed. Error : [Errno 13] Permission denied: 'Training_FileFromDB/InputFile.csv'
+2021-08-18/13:30:15		File exported successfully!!!
+2021-08-18/13:39:53		File exported successfully!!!
+2021-08-20/11:32:18		File exported successfully!!!
+2021-08-20/22:03:29		File exported successfully!!!
+2021-08-20/22:07:18		File exported successfully!!!
+2021-08-20/22:31:25		File exported successfully!!!
+2021-08-20/22:51:50		File exported successfully!!!
+2021-08-20/23:27:08		File exported successfully!!!
+2021-08-21/09:41:24		File exported successfully!!!

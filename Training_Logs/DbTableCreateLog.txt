@@ -1,0 +1,13 @@
+2020-02-11/21:41:30		Tables created successfully!!
+2020-02-11/22:04:11		Tables created successfully!!
+2020-02-11/23:01:48		Tables created successfully!!
+2020-02-11/23:05:39		Tables created successfully!!
+2020-02-11/23:09:03		Tables created successfully!!
+2020-02-11/23:11:32		Tables created successfully!!
+2020-02-11/23:19:18		Tables created successfully!!
+2020-02-12/18:13:50		Tables created successfully!!
+2020-02-12/18:17:02		Tables created successfully!!
+2020-02-12/19:05:57		Tables created successfully!!
+2021-08-18/13:10:22		Tables created successfully!!
+2021-08-18/13:37:55		Tables created successfully!!
+2021-08-19/11:19:16		Error while creating table: <Error from server: code=2000 [Syntax error in CQL query] message="line 1:33 no viable alternative at input 'age' (CREATE TABLE model.Good_Raw_Data(['ag]...)"> 

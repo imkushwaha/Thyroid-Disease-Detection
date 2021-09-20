@@ -1,0 +1,26 @@
+,columns,missing values count
+0,age,0
+1,sex,13
+2,on_thyroxine,0
+3,query_on_thyroxine,0
+4,on_antithyroid_medication,0
+5,sick,0
+6,pregnant,0
+7,thyroid_surgery,0
+8,I131_treatment,0
+9,query_hypothyroid,0
+10,query_hyperthyroid,0
+11,lithium,0
+12,goitre,0
+13,tumor,0
+14,hypopituitary,0
+15,psych,0
+16,T3,56
+17,TT4,15
+18,T4U,23
+19,FTI,23
+20,referral_source_STMW,0
+21,referral_source_SVHC,0
+22,referral_source_SVHD,0
+23,referral_source_SVI,0
+24,referral_source_other,0

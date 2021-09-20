@@ -1,0 +1,207 @@
+2020-02-11/23:19:15		Start of Validation on files for prediction!!
+2020-02-11/23:19:15		Raw Data Validation Complete!!
+2020-02-11/23:19:15		Starting Data Transforamtion!!
+2020-02-11/23:19:18		DataTransformation Completed!!!
+2020-02-11/23:19:18		Creating Training_Database and tables on the basis of given schema!!!
+2020-02-11/23:19:18		Table creation Completed!!
+2020-02-11/23:19:21		Insertion of Data into Table started!!!!
+2020-02-11/23:23:51		Insertion in Table completed!!!
+2020-02-11/23:23:51		Deleting Good Data Folder!!!
+2020-02-11/23:23:51		Good_Data folder deleted!!!
+2020-02-11/23:23:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-11/23:23:51		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-11/23:23:51		Validation Operation completed!!
+2020-02-11/23:23:51		Extracting csv file from table
+2020-02-12/18:16:36		Start of Validation on files for prediction!!
+2020-02-12/18:16:38		Raw Data Validation Complete!!
+2020-02-12/18:16:38		Starting Data Transforamtion!!
+2020-02-12/18:17:02		DataTransformation Completed!!!
+2020-02-12/18:17:02		Creating Training_Database and tables on the basis of given schema!!!
+2020-02-12/18:17:02		Table creation Completed!!
+2020-02-12/18:17:25		Insertion of Data into Table started!!!!
+2020-02-12/18:21:39		Insertion in Table completed!!!
+2020-02-12/18:21:39		Deleting Good Data Folder!!!
+2020-02-12/18:21:39		Good_Data folder deleted!!!
+2020-02-12/18:21:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-12/18:21:39		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-12/18:21:39		Validation Operation completed!!
+2020-02-12/18:21:39		Extracting csv file from table
+2020-02-12/19:05:56		Start of Validation on files for prediction!!
+2020-02-12/19:05:57		Raw Data Validation Complete!!
+2020-02-12/19:05:57		Starting Data Transforamtion!!
+2020-02-12/19:05:57		DataTransformation Completed!!!
+2020-02-12/19:05:57		Creating Training_Database and tables on the basis of given schema!!!
+2020-02-12/19:05:57		Table creation Completed!!
+2020-02-12/19:05:57		Insertion of Data into Table started!!!!
+2020-02-12/19:10:25		Insertion in Table completed!!!
+2020-02-12/19:10:25		Deleting Good Data Folder!!!
+2020-02-12/19:10:25		Good_Data folder deleted!!!
+2020-02-12/19:10:25		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-12/19:10:25		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-12/19:10:25		Validation Operation completed!!
+2020-02-12/19:10:25		Extracting csv file from table
+2021-08-18/13:10:09		Start of Validation on files for prediction!!
+2021-08-18/13:10:12		Raw Data Validation Complete!!
+2021-08-18/13:10:12		Starting Data Transforamtion!!
+2021-08-18/13:10:14		DataTransformation Completed!!!
+2021-08-18/13:10:14		Creating Training_Database and tables on the basis of given schema!!!
+2021-08-18/13:10:22		Table creation Completed!!
+2021-08-18/13:10:22		Insertion of Data into Table started!!!!
+2021-08-18/13:30:14		Insertion in Table completed!!!
+2021-08-18/13:30:14		Deleting Good Data Folder!!!
+2021-08-18/13:30:14		Good_Data folder deleted!!!
+2021-08-18/13:30:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-18/13:30:14		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-18/13:30:14		Validation Operation completed!!
+2021-08-18/13:30:14		Extracting csv file from table
+2021-08-18/13:37:53		Start of Validation on files for prediction!!
+2021-08-18/13:37:55		Raw Data Validation Complete!!
+2021-08-18/13:37:55		Starting Data Transforamtion!!
+2021-08-18/13:37:55		DataTransformation Completed!!!
+2021-08-18/13:37:55		Creating Training_Database and tables on the basis of given schema!!!
+2021-08-18/13:37:55		Table creation Completed!!
+2021-08-18/13:37:55		Insertion of Data into Table started!!!!
+2021-08-18/13:39:52		Insertion in Table completed!!!
+2021-08-18/13:39:52		Deleting Good Data Folder!!!
+2021-08-18/13:39:52		Good_Data folder deleted!!!
+2021-08-18/13:39:52		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-18/13:39:52		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-18/13:39:52		Validation Operation completed!!
+2021-08-18/13:39:52		Extracting csv file from table
+2021-08-20/11:07:57		Start of Validation on files for prediction!!
+2021-08-20/11:08:04		Raw Data Validation Complete!!
+2021-08-20/11:08:04		Starting Data Transforamtion!!
+2021-08-20/11:08:05		DataTransformation Completed!!!
+2021-08-20/11:08:05		Creating tables on the basis of given schema!!
+2021-08-20/11:25:08		Start of Validation on files for prediction!!
+2021-08-20/11:25:08		Raw Data Validation Complete!!
+2021-08-20/11:25:08		Starting Data Transforamtion!!
+2021-08-20/11:25:09		DataTransformation Completed!!!
+2021-08-20/11:25:09		Creating tables on the basis of given schema!!!
+2021-08-20/11:25:26		Table creation Completed!!
+2021-08-20/11:25:26		Insertion of Data into Table started!!!!
+2021-08-20/11:32:03		Insertion in Table completed!!!
+2021-08-20/11:32:03		Deleting Good Data Folder!!!
+2021-08-20/11:32:03		Good_Data folder deleted!!!
+2021-08-20/11:32:03		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-20/11:32:04		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-20/11:32:04		Validation Operation completed!!
+2021-08-20/11:32:04		Extracting csv file from table
+2021-08-20/21:57:17		Start of Validation on files for prediction!!
+2021-08-20/21:57:19		Raw Data Validation Complete!!
+2021-08-20/21:57:19		Starting Data Transforamtion!!
+2021-08-20/21:57:19		DataTransformation Completed!!!
+2021-08-20/21:57:19		Creating tables on the basis of given schema!!!
+2021-08-20/21:57:37		Table creation Completed!!
+2021-08-20/21:57:37		Insertion of Data into Table started!!!!
+2021-08-20/22:03:14		Insertion in Table completed!!!
+2021-08-20/22:03:14		Deleting Good Data Folder!!!
+2021-08-20/22:03:14		Good_Data folder deleted!!!
+2021-08-20/22:03:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-20/22:03:14		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-20/22:03:14		Validation Operation completed!!
+2021-08-20/22:03:14		Extracting csv file from table
+2021-08-20/22:03:29		File exported successfully!!!
+2021-08-20/22:01:00		Start of Validation on files for prediction!!
+2021-08-20/22:01:00		Raw Data Validation Complete!!
+2021-08-20/22:01:00		Starting Data Transforamtion!!
+2021-08-20/22:01:01		DataTransformation Completed!!!
+2021-08-20/22:01:01		Creating tables on the basis of given schema!!!
+2021-08-20/22:01:16		Table creation Completed!!
+2021-08-20/22:01:16		Insertion of Data into Table started!!!!
+2021-08-20/22:07:05		Insertion in Table completed!!!
+2021-08-20/22:07:05		Deleting Good Data Folder!!!
+2021-08-20/22:07:05		Good_Data folder deleted!!!
+2021-08-20/22:07:05		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-20/22:07:05		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-20/22:07:05		Validation Operation completed!!
+2021-08-20/22:07:05		Extracting csv file from table
+2021-08-20/22:07:18		File exported successfully!!!
+2021-08-20/22:03:45		Start of Validation on files for prediction!!
+2021-08-20/22:03:46		Raw Data Validation Complete!!
+2021-08-20/22:03:46		Starting Data Transforamtion!!
+2021-08-20/22:03:46		DataTransformation Completed!!!
+2021-08-20/22:03:46		Creating tables on the basis of given schema!!!
+2021-08-20/22:04:02		Table creation Completed!!
+2021-08-20/22:04:02		Insertion of Data into Table started!!!!
+2021-08-20/22:25:41		Start of Validation on files for prediction!!
+2021-08-20/22:25:42		Raw Data Validation Complete!!
+2021-08-20/22:25:42		Starting Data Transforamtion!!
+2021-08-20/22:25:42		DataTransformation Completed!!!
+2021-08-20/22:25:42		Creating tables on the basis of given schema!!!
+2021-08-20/22:25:56		Table creation Completed!!
+2021-08-20/22:25:56		Insertion of Data into Table started!!!!
+2021-08-20/22:31:12		Insertion in Table completed!!!
+2021-08-20/22:31:12		Deleting Good Data Folder!!!
+2021-08-20/22:31:12		Good_Data folder deleted!!!
+2021-08-20/22:31:12		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-20/22:31:12		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-20/22:31:12		Validation Operation completed!!
+2021-08-20/22:31:12		Extracting csv file from table
+2021-08-20/22:31:25		File exported successfully!!!
+2021-08-20/22:45:42		Start of Validation on files for prediction!!
+2021-08-20/22:45:43		Raw Data Validation Complete!!
+2021-08-20/22:45:43		Starting Data Transforamtion!!
+2021-08-20/22:45:43		DataTransformation Completed!!!
+2021-08-20/22:45:43		Creating tables on the basis of given schema!!!
+2021-08-20/22:45:57		Table creation Completed!!
+2021-08-20/22:45:57		Insertion of Data into Table started!!!!
+2021-08-20/22:51:36		Insertion in Table completed!!!
+2021-08-20/22:51:36		Deleting Good Data Folder!!!
+2021-08-20/22:51:36		Good_Data folder deleted!!!
+2021-08-20/22:51:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-20/22:51:36		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-20/22:51:36		Validation Operation completed!!
+2021-08-20/22:51:36		Extracting csv file from table
+2021-08-20/22:51:50		File exported successfully!!!
+2021-08-20/23:20:14		Start of Validation on files for prediction!!
+2021-08-20/23:20:15		Raw Data Validation Complete!!
+2021-08-20/23:20:15		Starting Data Transforamtion!!
+2021-08-20/23:20:16		DataTransformation Completed!!!
+2021-08-20/23:20:16		Creating tables on the basis of given schema!!!
+2021-08-20/23:20:35		Table creation Completed!!
+2021-08-20/23:20:35		Insertion of Data into Table started!!!!
+2021-08-20/23:26:53		Insertion in Table completed!!!
+2021-08-20/23:26:53		Deleting Good Data Folder!!!
+2021-08-20/23:26:53		Good_Data folder deleted!!!
+2021-08-20/23:26:53		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-20/23:26:53		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-20/23:26:53		Validation Operation completed!!
+2021-08-20/23:26:53		Extracting csv file from table
+2021-08-20/23:27:08		File exported successfully!!!
+2021-08-20/23:38:28		Start of Validation on files for prediction!!
+2021-08-20/23:38:30		Raw Data Validation Complete!!
+2021-08-20/23:38:30		Starting Data Transforamtion!!
+2021-08-20/23:38:32		DataTransformation Completed!!!
+2021-08-20/23:38:32		Creating tables on the basis of given schema!!!
+2021-08-20/23:38:54		Table creation Completed!!
+2021-08-20/23:38:54		Insertion of Data into Table started!!!!
+2021-08-21/09:35:37		Start of Validation on files for prediction!!
+2021-08-21/09:35:38		Raw Data Validation Complete!!
+2021-08-21/09:35:38		Starting Data Transforamtion!!
+2021-08-21/09:35:39		DataTransformation Completed!!!
+2021-08-21/09:35:39		Creating tables on the basis of given schema!!!
+2021-08-21/09:35:57		Table creation Completed!!
+2021-08-21/09:35:57		Insertion of Data into Table started!!!!
+2021-08-21/09:41:12		Insertion in Table completed!!!
+2021-08-21/09:41:12		Deleting Good Data Folder!!!
+2021-08-21/09:41:12		Good_Data folder deleted!!!
+2021-08-21/09:41:12		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-21/09:41:12		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-21/09:41:12		Validation Operation completed!!
+2021-08-21/09:41:12		Extracting csv file from table
+2021-08-21/09:41:24		File exported successfully!!!
+2021-08-21/09:57:47		Start of Validation on files for prediction!!
+2021-08-21/09:57:47		Raw Data Validation Complete!!
+2021-08-21/09:57:47		Starting Data Transforamtion!!
+2021-08-21/09:57:47		DataTransformation Completed!!!
+2021-08-21/09:57:47		Creating tables on the basis of given schema!!!
+2021-08-21/09:57:47		Insertion of Data into Table started!!!!
+2021-08-21/09:57:47		Insertion in Table completed!!!
+2021-08-21/09:57:47		Deleting Good Data Folder!!!
+2021-08-21/09:57:47		Good_Data folder deleted!!!
+2021-08-21/09:57:47		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-21/09:57:47		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-21/09:57:47		Validation Operation completed!!
+2021-08-21/09:57:47		Extracting csv file from table
+2021-08-21/09:57:47		File exported successfully!!!

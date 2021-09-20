@@ -1,0 +1,61 @@
+2020-02-11/21:38:55		Column Length Validation Started!!
+2020-02-11/21:39:09		Column Length Validation Completed!!
+2020-02-11/22:03:57		Column Length Validation Started!!
+2020-02-11/22:03:57		Column Length Validation Completed!!
+2020-02-11/22:58:14		Column Length Validation Started!!
+2020-02-11/22:58:14		Column Length Validation Completed!!
+2020-02-11/22:59:59		Column Length Validation Started!!
+2020-02-11/22:59:59		Column Length Validation Completed!!
+2020-02-11/23:05:35		Column Length Validation Started!!
+2020-02-11/23:05:35		Column Length Validation Completed!!
+2020-02-11/23:09:02		Column Length Validation Started!!
+2020-02-11/23:09:02		Column Length Validation Completed!!
+2020-02-11/23:11:30		Column Length Validation Started!!
+2020-02-11/23:11:30		Column Length Validation Completed!!
+2020-02-11/23:19:15		Column Length Validation Started!!
+2020-02-11/23:19:15		Column Length Validation Completed!!
+2020-02-12/18:13:48		Column Length Validation Started!!
+2020-02-12/18:13:48		Column Length Validation Completed!!
+2020-02-12/18:16:37		Column Length Validation Started!!
+2020-02-12/18:16:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062111000.csv
+2020-02-12/18:16:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112025.csv
+2020-02-12/18:16:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112042.csv
+2020-02-12/18:16:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112109.csv
+2020-02-12/18:16:37		Column Length Validation Completed!!
+2020-02-12/19:05:57		Column Length Validation Started!!
+2020-02-12/19:05:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062111000.csv
+2020-02-12/19:05:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112025.csv
+2020-02-12/19:05:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112042.csv
+2020-02-12/19:05:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112109.csv
+2020-02-12/19:05:57		Column Length Validation Completed!!
+2021-08-18/13:10:10		Column Length Validation Started!!
+2021-08-18/13:10:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062111000.csv
+2021-08-18/13:10:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112025.csv
+2021-08-18/13:10:11		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112042.csv
+2021-08-18/13:10:11		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112109.csv
+2021-08-18/13:10:11		Column Length Validation Completed!!
+2021-08-18/13:37:54		Column Length Validation Started!!
+2021-08-18/13:37:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062111000.csv
+2021-08-18/13:37:54		Column Length Validation Completed!!
+2021-08-20/11:08:01		Column Length Validation Started!!
+2021-08-20/11:08:03		Column Length Validation Completed!!
+2021-08-20/11:13:48		Column Length Validation Started!!
+2021-08-20/11:13:54		Column Length Validation Completed!!
+2021-08-20/11:25:08		Column Length Validation Started!!
+2021-08-20/11:25:08		Column Length Validation Completed!!
+2021-08-20/21:57:17		Column Length Validation Started!!
+2021-08-20/21:57:18		Column Length Validation Completed!!
+2021-08-20/22:01:00		Column Length Validation Started!!
+2021-08-20/22:01:00		Column Length Validation Completed!!
+2021-08-20/22:03:45		Column Length Validation Started!!
+2021-08-20/22:03:46		Column Length Validation Completed!!
+2021-08-20/22:25:41		Column Length Validation Started!!
+2021-08-20/22:25:41		Column Length Validation Completed!!
+2021-08-20/22:45:42		Column Length Validation Started!!
+2021-08-20/22:45:42		Column Length Validation Completed!!
+2021-08-20/23:20:14		Column Length Validation Started!!
+2021-08-20/23:20:14		Column Length Validation Completed!!
+2021-08-20/23:38:28		Column Length Validation Started!!
+2021-08-20/23:38:28		Column Length Validation Completed!!
+2021-08-21/09:35:37		Column Length Validation Started!!
+2021-08-21/09:35:37		Column Length Validation Completed!!
