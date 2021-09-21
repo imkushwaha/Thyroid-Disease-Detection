@@ -62,22 +62,22 @@ The final model is deployed on Heroku using Flask framework.
 
 ## UI
 
-### Homepage: A very simple UI with single page. 
+#### Homepage: A very simple UI with single page. 
 ![wireframe_tdd_1](https://user-images.githubusercontent.com/72372136/134201402-7c55f34a-b633-44f1-b2a3-87da79a37c47.JPG)
 
-### User need to upload CSV file and click predict button for prediction to start.
+#### User need to upload CSV file and click predict button for prediction to start.
 ![wireframe_tdd_2](https://user-images.githubusercontent.com/72372136/134201675-f3a40430-cb60-4817-a21b-de65370f0e69.JPG)
 
-### User can download their result by clicking download button below.
+#### User can download their result by clicking download button below.
 ![wireframe_tdd_3](https://user-images.githubusercontent.com/72372136/134201925-476df9d9-7f2f-4d5b-b927-46897f5c492c.JPG)
 
-### Downloaded CSV file will contain index numer with type of thyroid disease patient is suffering from.
+#### Downloaded CSV file will contain index numer with type of thyroid disease patient is suffering from.
 ![wireframe_tdd_4](https://user-images.githubusercontent.com/72372136/134202106-fb8e0274-ac88-4f9b-b77e-4e834d642a24.JPG)
 
-### User can also download sample csv file for reference.
+#### User can also download sample csv file for reference.
 ![wireframe_tdd_5](https://user-images.githubusercontent.com/72372136/134202214-b4d2fa52-fa25-47d9-9a89-034515e94051.JPG)
 
-## Data in Cassandra Database.
+#### Data in Cassandra Database.
 ![DataInCassandraDB](https://user-images.githubusercontent.com/72372136/134202316-ef62ddc2-25f9-451e-bd34-be6c3accce4b.JPG)
 
 
