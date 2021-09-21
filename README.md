@@ -60,7 +60,7 @@ Cassandra database used for this project.
 ## Model Deployment
 The final model is deployed on Heroku using Flask framework.
 
-## UI
+## User Interface
 
 #### Homepage: A very simple UI with single page. 
 ![wireframe_tdd_1](https://user-images.githubusercontent.com/72372136/134201402-7c55f34a-b633-44f1-b2a3-87da79a37c47.JPG)
