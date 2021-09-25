@@ -6,6 +6,7 @@ The main objective of this project is to predict if a person is having compensat
 
 # Webpage Link
 
+AWS: http://thyroidbulkprediction-env.eba-h23xmtgk.us-east-2.elasticbeanstalk.com/
 
 # Demo 
 
@@ -18,7 +19,7 @@ The main objective of this project is to predict if a person is having compensat
 - Back-end: Flask framework
 - IDE: Jupyter Notebook, Pycharm & VSCode
 - Database: Cassandra 
-- Deployment: Heroku
+- Deployment: Heroku, AWS
 
 # How to run this app 
 
