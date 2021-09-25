@@ -11,7 +11,9 @@ Heroku: https://batchprediction.herokuapp.com/
 
 AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
-# Demo 
+# Demo
+
+https://user-images.githubusercontent.com/72372136/134772925-977ddd59-fba1-4106-ae49-651208b99627.mp4
 
 
 # Technical Aspects
