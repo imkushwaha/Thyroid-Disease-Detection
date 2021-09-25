@@ -9,7 +9,7 @@ The main objective of this project is to predict if a person is having compensat
 Heroku: https://batchprediction.herokuapp.com/
 
 
-AWS: http://thyroidbulkprediction-env.eba-h23xmtgk.us-east-2.elasticbeanstalk.com/
+AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
 # Demo 
 
