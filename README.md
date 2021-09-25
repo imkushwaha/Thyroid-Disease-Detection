@@ -6,6 +6,7 @@ The main objective of this project is to predict if a person is having compensat
 
 # Webpage Link
 
+Heroku: https://batchprediction.herokuapp.com/
 AWS: http://thyroidbulkprediction-env.eba-h23xmtgk.us-east-2.elasticbeanstalk.com/
 
 # Demo 
