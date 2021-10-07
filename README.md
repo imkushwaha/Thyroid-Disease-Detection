@@ -6,8 +6,11 @@ The main objective of this project is to predict if a person is having compensat
 
 # Webpage Link
 
-Heroku: https://batchprediction.herokuapp.com/
+## For One-User-Input Prediction
+Heroku: https://tddoneinput.herokuapp.com/predict
 
+## For Bulk Prediction
+Heroku: https://batchprediction.herokuapp.com/
 
 AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
